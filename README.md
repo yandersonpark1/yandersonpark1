@@ -1,4 +1,10 @@
-## Hi there 👋
+##                                             Hello, 👋 I am Anderson Park
+- I have been lucky enough to have a wide range of professional experience in Software Engineering, Data Engineering, Machine Learning, and Computational BioEngineering 
+- 2024 Summer -> SplashBI (Backend + Data Engineer) 
+- 2024 Spring -> Oberlin College (Full Stack Developer)
+- 2025 Summer -> Rosetta Commons (Computational BioEngineer and ML Researcher)
+- Currently -> Odola Labs (Computational BioEngineer) + Oberlin College (Systems Engineer in the Goldman Lab)
+
 
 <!--
 **yandersonpark1/yandersonpark1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
